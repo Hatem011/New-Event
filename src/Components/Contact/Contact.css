@@ -1,0 +1,35 @@
+.contact{
+    background-image: url(../../images/contact-bg.jpg);
+    background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   padding: 50px;
+}
+.contact-content
+{
+    width: 70%;
+    margin: auto;
+}
+.contact h2 span
+{
+    color: rgb(220, 20, 177);
+}
+.contact-text
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-form {
+    border: 1px solid #fff;
+    border-radius: 30px;
+    background-color: #fff;
+    padding: 20px;
+   
+}
+.contact-form input{
+   border: none;
+    border-bottom: 1px solid #999;
+    margin-bottom: 15px;
+    outline: none;
+}

@@ -1,0 +1,12 @@
+.venue
+{
+    background-image: url(../../images/venue-bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 400px;
+    background-position: center;
+}
+.venue h2
+{
+     color: rgb(220, 20, 177);
+}

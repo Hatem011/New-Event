@@ -1,0 +1,20 @@
+.register
+{
+    background-image: url(../../images/register-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+}
+.register-text
+{
+    width: 55%;
+}
+.register-form
+{
+width: 35%;
+  margin: auto;
+}
+.register h2 span
+{
+    color: rgb(220, 20, 177);
+}

@@ -1,0 +1,7 @@
+.footer li{
+    padding: 0 10px;
+    transition: all .6s;
+}
+.footer li:hover{
+   color: red;
+}

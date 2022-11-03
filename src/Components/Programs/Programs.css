@@ -1,0 +1,23 @@
+.programs h2 span
+{
+    color: rgb(220, 20, 177);
+}
+.programs ul li {
+    margin-right:20px;
+    cursor: pointer;
+}
+.programs hr{
+    width: 71%;
+}
+.programs-content
+{
+display: flex;
+}
+.programs-content .program-img img
+{
+   
+    border-radius: 50%;
+}
+.programs-content p{
+    padding-top: 10px;
+}
